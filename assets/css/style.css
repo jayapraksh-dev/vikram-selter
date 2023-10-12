@@ -1,0 +1,292 @@
+.logos{
+    width: 150px;
+}
+.phoneIcon{
+    display: inline-block;
+    height: 31px;
+    width: 30px;
+    background: green;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+.fa-phone{
+    font-weight: 900;
+    color: white;
+    position: relative;
+    top: 2px;
+    left: 9px;
+    font-size: 13px;
+}
+.quoteNav{
+    position: relative;
+    left: 14px;
+    top: 2px;
+    color: white;
+}
+.quoteLink{
+    height: 50px;
+    width: 180px;
+    background: orange;
+    border-radius: 35px;
+    position: relative;
+    bottom: 3px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: black !important;
+    font-weight: bold;
+    font-size: 17px;
+    margin-right: 15px;
+}
+.navigationBarContainer{
+    padding: 0px 110px;
+}
+.hr1{
+    background: orange;
+    margin: 0px;
+}
+.home .homeContainer .vik{
+    font-size: 44px;
+    font-weight: 400;
+    color: green;
+}
+.home .homeContainer .vik .shell{
+    color: orange;
+}   
+.home .homeContainer .vision{
+    font-weight: 800;
+    font-size: 50px;
+    margin: 20px 0px 30px;
+}
+.home .homeContainer .vision .real{
+    color: green;
+}
+.home .homeContainer p{
+    font-size: 19px;
+    font-weight: bold;
+    word-spacing: 5px;
+}
+.home .homeContainer .moreA{
+    display: inline-block;
+    height: 35px;
+    width: 105px;
+    background: orange;
+    border-radius: 20px;
+    margin: 10px 30px;
+}
+.home .homeContainer .moreA .moreSpan{
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+    position: relative;
+    left: 28px;
+}
+.homeColLeft{
+    padding: 60px 100px !important;
+}
+.service .serviceContainer{
+    background-color: #f3f5fa;
+    height: auto;
+    background-repeat: repeat;
+    background-size: auto;
+    margin-top: 40px;
+}
+.service .serviceContainer h1{
+    position: relative;
+    top: 40px;
+}
+.service .serviceContainer .jvDev{
+    background-image: url(./images/main-hero-2.jpg);
+    height: 450px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 85px;
+    padding: 70px 520px 100px 50px;
+}
+.service .serviceContainer .promo{
+    background-image: url(./images/Group\ 1.png);
+    height: 450px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 70px 520px 100px 50px;
+}
+.service .serviceContainer .cWorks{
+    background-image: url(./images/Group\ 2.png);
+    height: 450px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 70px 520px 100px 50px;
+}
+.service .serviceContainer .fMain{
+    background-image: url(./images/Group\ 3\ \(1\).png);
+    height: 450px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 70px 520px 100px 50px;
+}
+.service .serviceContainer .jvDev h3{
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 25px;
+    line-height: 9px;
+}
+.service .serviceContainer p{
+    font-size: 15px;
+    font-weight: 500;
+}
+.service .serviceContainer .promo h3{
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 25px;
+}
+.service .serviceContainer .cWorks h3{
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 25px;
+}
+.service .serviceContainer .fMain h3{
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 25px;
+}
+.angleIconDiv{
+    display: inline-block;
+    float: right;
+}
+.FWspan{
+    font-size: 30px;
+}
+.Abraket{
+    color: white;
+    position: relative;
+    top: 7px;
+    left: 14px;
+}
+.angleSpan{
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background: green;
+    border-radius: 50%;
+}
+.fworksContainer{
+    padding: 50px;
+}
+.div{
+    margin-bottom: 20px;
+}
+.footContainer{
+    text-align: center;
+}
+.footImgP{
+    margin-top: 20px;
+}
+.footNav{
+    margin-left: 290px;
+    text-align: center;
+}
+.footnl{
+    font-size: 17px;
+    font-weight: 500;
+    color: black;
+}
+.fa-location-dot{
+    font-size: 40px;
+    color: green;
+    margin: 20px;
+}
+.locateP{
+    font-size: 17px;
+    font-weight: 500;
+    padding: 0px 200px;
+}
+.footIcon{
+    margin: 20px 0px;
+}
+.Icon{
+    position: relative;
+    top: 8px;
+}
+#fb{
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    color: white;
+    background: #4267B2;
+}
+#tw{
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    color: white;
+    background: #1DA1F2;
+}
+#yt{
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    color: white;
+    background: #FF0000;
+}
+#link{
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    color: white;
+    background: #0077B5;
+}
+#insta{
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    color: white;
+    background: #F77737;
+}
+.endP{
+    font-size: 13px;
+}
+
+@media(max-width: 920px){
+    .navigationBarContainer{
+        padding: 0px;
+    }
+    .homeColLeft {
+        padding: 20px 16px !important;
+    }
+    .service .serviceContainer .jvDev {
+        background-image: url(./images/main-hero-2.jpg);
+        background-repeat: no-repeat;
+        background-size: contain;
+        margin-top: 85px;
+        padding: 10px;
+        height: auto;
+
+    }
+    .service .serviceContainer .promo{
+        background-image: url(./images/Group\ 1.png);
+        background-repeat: no-repeat;
+        background-size: contain;
+        padding: 10px;
+        height: auto;
+
+    }
+    .service .serviceContainer .cWorks{
+        background-image: url(./images/Group\ 2.png);
+        background-repeat: no-repeat;
+        background-size: contain;
+        padding: 10px;
+        height: auto;
+    }
+    .service .serviceContainer .fMain{
+        background-image: url(./images/Group\ 3\ \(1\).png);
+        background-repeat: no-repeat;
+        background-size: contain;
+        padding: 10px;
+        height: auto;
+
+    }
+}
